@@ -1,0 +1,28 @@
+h1{
+    Color:teal;
+    Font-weight:bold;
+    Font-size: 50px;
+    Opacity:0.75;
+    }
+    
+    div{
+     Background-color:#95B9C7;
+     Border-style:ridge;
+     Border-color:teal;
+     Text-align:center;
+     Background-image:url("bg.jpeg");
+     background-image:no-repeat;
+    }
+    
+    #Fname,#Lname,#pno,#city{
+     Width:50%;
+     Padding:10px 15px;
+     Margin:8px 0;
+     Box-shadow:0 0 15px 4px rgba(0,0,0,0.06);
+    }
+    
+    input{
+     Font-family:Times New Roman;
+     Font-size: 20px;
+     Color:teal;
+    }
